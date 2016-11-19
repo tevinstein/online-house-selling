@@ -21,11 +21,11 @@
 ## Restful API
 | URL       | Method | Description     |
 |-----------|--------|-----------------|
-| /houses     | GET    | Shows all house |
-| /houses     | POST   | Creates a house  |
-| /houses/:id | GET    | Shows a house    |
-| /houses/:id | DELETE | Deletes a house  |
-| /houses/:id | PUT    | Updates a house  |
+| /api/houses     | GET    | Shows all house |
+| /api/houses     | POST   | Creates a house  |
+| /api/houses/:id | GET    | Shows a house    |
+| /api/houses/:id | DELETE | Deletes a house  |
+| /api/houses/:id | PUT    | Updates a house  |
 
 ## Screenshots
 
