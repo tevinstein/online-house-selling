@@ -1,5 +1,7 @@
 # online-house-selling
 
+OHS is a simple web application that lets you add, edit, view and delete a house ad as well as locates your house with google maps location search.
+
 ##### This is one of my Hacktiv8's project using:
 - Node.js v6+
 - Express
