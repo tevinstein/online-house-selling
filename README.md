@@ -1,1 +1,32 @@
 # online-house-selling
+
+##### This is one of my Hacktiv8's project using:
+- Node.js v6+
+- Express
+- MongoDB
+- Mongoose
+- JQuery and Ajax
+- Google Maps API
+
+## Installation
+- Clone the repo: `git clone https://github.com/tevinstein/online-house-selling.git`
+
+#### In the folder *server*
+- Install packages: `npm install`
+- Start the server: `npm start`
+
+#### In the folder *client*
+- Preview the html file in your browser by opening **index.html** or run live-server if you have it installed `live-server`
+
+## Restful API
+| URL       | Method | Description     |
+|-----------|--------|-----------------|
+| /houses     | GET    | Shows all house |
+| /houses     | POST   | Creates a house  |
+| /houses/:id | GET    | Shows a house    |
+| /houses/:id | DELETE | Deletes a house  |
+| /houses/:id | PUT    | Updates a house  |
+
+## Screenshots
+
+[![Online House Selling](http://i.imgur.com/qq40umZ.png "Online House Selling")](http://i.imgur.com/qq40umZ.png "Online House Selling")
